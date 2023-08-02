@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\bin\Debug\AP_WorkingwithFiles.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\bin\Debug\AP_WorkingwithFiles.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\bin\Debug\AP_WorkingwithFiles.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\obj\Debug\AP_WorkingwithFiles.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\obj\Debug\AP_WorkingwithFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\obj\Debug\AP_WorkingwithFiles.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\obj\Debug\AP_WorkingwithFiles.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_WorkingwithFiles\AP_WorkingwithFiles\obj\Debug\AP_WorkingwithFiles.pdb
